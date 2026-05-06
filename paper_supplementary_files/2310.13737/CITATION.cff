@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: JPsi Production NRQCD
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Marston
+    family-names: Copeland
+  - given-names: Sean
+    family-names: Fleming
+    orcid: 'https://orcid.org/0000-0002-9553-7198'
+  - given-names: Rohit
+    family-names: Gupta
+  - given-names: Reed
+    family-names: Hodges
+    orcid: 'https://orcid.org/0000-0001-7993-6028'
+  - given-names: Thomas
+    family-names: Mehen
+#identifiers:
+#  - type: url
+#    value: ''
+#    description: arXiv
+repository-code: 'https://github.com/reedhodges/JPsi_Production_NRQCD'
